@@ -4,5 +4,5 @@
 
 
 **very** simple HTML redirection to my discord
-* using discord:// -> *pc app*
-* and then redirecting -> *mobile app + browser*
+* using discord:// -> *opens pc app*
+* and then redirecting -> *opens mobile app / opens in browser*
