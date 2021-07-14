@@ -1,6 +1,7 @@
 # hazardev-discord
 
-## accessible with https://hazardev.com/
+#### accessible with https://hazardev.com/
+
 
 **very** simple HTML redirection to my discord
 * discord:// -> *pc app*
